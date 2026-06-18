@@ -1,0 +1,6 @@
+{
+  "name": "NU",
+  "description": "Anything You Need. One App. One AI. Combining AI, Social, Education, Wallet, Business, and human life services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
